@@ -1,0 +1,2 @@
+﻿{"Id":4,"DateTime":"5/8/2019 2:27:11 PM","FullName":"Mads","Score":70.0}
+{"Id":4,"DateTime":"5/8/2019 2:46:07 PM","FullName":"Lund","Score":330.0}

@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{67724CEF-A132-4E2B-BBA5-5296D8595A6B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Unity3d__Restful__service PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unity3d_Restful_service/Log/Log.txt">
+    <Files>
+      <File FileName="Unity3d_Restful_service/Contacts/Player.cs" Line="10" Column="31" />
+      <File FileName="Unity3d_Restful_service/appsettings.json" Line="1" Column="1" />
+      <File FileName="Unity3d_Restful_service/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Unity3d_Restful_service/Program.cs" Line="1" Column="1" />
+      <File FileName="Unity3d_Restful_service/Startup.cs" Line="1" Column="1" />
+      <File FileName="Unity3d_Restful_service/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="Unity3d_Restful_service/Controllers/PlayersController.cs" Line="44" Column="14" />
+      <File FileName="Unity3d_Restful_service/Controllers/SaveAndLoadScoreBoard.cs" Line="26" Column="40" />
+      <File FileName="Unity3d_Restful_service/Log/Log.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity3d_Restful_service" expanded="True">
+            <Node name="Unity3d_Restful_service" expanded="True">
+              <Node name="Contacts" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Log" expanded="True">
+                <Node name="Log.txt" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
